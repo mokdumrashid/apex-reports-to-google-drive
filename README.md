@@ -54,7 +54,7 @@ Download the repository as a ZIP file and extract it locally.
 5. Follow the import wizard and click **Install with Supporting Objects**.
 
 ### Step 3: Configure Google OAuth 2.0
-Google OAuth 2.0 credentials are required to complete the application setup and enable access to Google Drive. Follow the included document for the complete, step-by-step configuration process. The document covers:
+Google OAuth 2.0 credentials are required to complete the application setup and enable access to Google Drive. Follow the included document in this repository for the complete, step-by-step configuration process. The document covers:
 
 1. Creating or selecting a Google Cloud project.
 2. Enabling the Google Drive API.
