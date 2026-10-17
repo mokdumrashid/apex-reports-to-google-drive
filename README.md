@@ -4,7 +4,6 @@ Integrate Oracle APEX with Google Drive to export reports, upload files, and man
 
 DriveBridge APEX is an Oracle APEX application that integrates Google Drive with Oracle APEX using the Google Drive REST API and OAuth 2.0 authentication. It enables users to export reports in Excel format, upload files to Google Drive, and manage files and folders directly from the APEX interface.
 
----
 ## Features
 
 * **Report Export:** Export Oracle APEX reports in Excel format.
@@ -16,7 +15,6 @@ DriveBridge APEX is an Oracle APEX application that integrates Google Drive with
 * **PL/SQL Integration:** Use Oracle APEX Web Services and PL/SQL to communicate with Google Drive APIs.
 * **JavaScript Integration:** Use JavaScript to support Google authentication and Drive operations.
 
----
 ## Technologies Used
 
 * Oracle Application Express (APEX)
@@ -31,7 +29,6 @@ DriveBridge APEX is an Oracle APEX application that integrates Google Drive with
 * APEX Collections
 * AJAX Callback
 
----
 ## Prerequisites
 
 Before setting up the application, ensure that you have Oracle APEX 26.2 and the following:
@@ -44,7 +41,6 @@ Before setting up the application, ensure that you have Oracle APEX 26.2 and the
 * A configured OAuth 2.0 Client ID and Client Secret.
 * A Refresh Token and the required access tokens for the authentication flow used by your implementation.
 
----
 ## Installation and Configuration
 
 ### Step 1: Download the Project
@@ -66,7 +62,6 @@ Google OAuth 2.0 credentials are required to complete the application setup and 
 4. Creating an OAuth Client ID and Client Secret.
 5. Opening Google OAuth 2.0 Playground and generating a Refresh Token.
 
----
 ## After Installation and Configuration
 
 1. Open DriveBridge APEX.
@@ -83,6 +78,5 @@ Google OAuth 2.0 credentials are required to complete the application setup and 
  [DriveBridge Apex](https://oracleapex.com/ords/r/procurement_foundry/g-drive121148/login?)
  Username: demo
  Password: driveBridge#456
----
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
