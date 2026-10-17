@@ -84,7 +84,7 @@ Google OAuth 2.0 credentials are required to complete the application setup and 
 8. Navigate to **Automation Configuration** to run the automation and upload reports to your Google Drive folder.
 9. Check the automation execution log.
 
-**Click here to launch the Live Demo**[DriveBridge Apex](https://oracleapex.com/ords/r/procurement_foundry/g-drive121148/login?)
+**Click here to launch the Live Demo** [DriveBridge Apex](https://oracleapex.com/ords/r/procurement_foundry/g-drive121148/login?)
 ---
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
